@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+gTTS
+langdetect
+transformers
+torch
+accelerate
+pydantic
+sentencepiece
+safetensors
+
