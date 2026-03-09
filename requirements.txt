@@ -7,7 +7,3 @@ langdetect
 transformers
 torch
 accelerate
-pydantic
-sentencepiece
-safetensors
-
