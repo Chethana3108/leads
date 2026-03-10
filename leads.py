@@ -521,8 +521,8 @@ async def status():
 if __name__ == "__main__":
     uvicorn.run(
         "main:app",
-        host=HOST,
-        port=PORT,
+        host="0.0.0.0",
+        port=6006,
         reload=False, 
         log_level="info",
     )
