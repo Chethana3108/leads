@@ -7,3 +7,11 @@ langdetect
 transformers
 torch
 accelerate
+
+sentence-transformers
+faiss-cpu
+pdfplumber
+numpy
+python-dotenv
+pydantic
+python-multipart
